@@ -1,6 +1,6 @@
 # Desafio de Projeto sobre Git/GitHub da DIO
 
-Repositório criado para os desafios dos projetos. 
+Repositório criado para os desafios dos projetos da DIO. 
 #### Let's code!!
 
 ## Links Úteis
